@@ -3,6 +3,7 @@ public class Profile {
 		System.out.println("Hassan Fouad Hamdan");
 		System.out.println("Mechatronic engineering");
 		System.out.println("2023-2024");
+		System.out.println("My hobby is reading.");
 
 
 
